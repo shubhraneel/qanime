@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "question": "In Bleach, how many opponents has Ichigo Kurosaki actually killed ?​",
+    "option1": "1",
+    "option2": "2",
+    "option3": "3",
+    "option4": "None",
+    "correct": "1",
+    "type": "1"
+  },
+  {
+    "id": "2",
+    "question": "In Naruto, what is the name of the two-tailed beast?",
+    "option1": "Kokuo",
+    "option2": "Matatabi",
+    "option3": "Saiken",
+    "option4": "Chomei",
+    "correct": "Matatabi",
+    "type": "1"
+  },
+  {
+    "id": "3",
+    "question": "In which year was the first episode of Dragon Ball Z aired on Television?",
+    "option1": "1985",
+    "option2": "1995",
+    "option3": "1989",
+    "option4": "1997",
+    "correct": "1989",
+    "type": "1"
+  },
+  {
+    "id": "4",
+    "question": "In Naruto, what reference animals is Eight Tails’ character design based on?",
+    "option1": "Bull and Octopus",
+    "option2": "Buffalo and Squid",
+    "option3": "Tiger and Snakes",
+    "option4": "Bison and Squid",
+    "correct": "Bull and Octopus",
+    "type": "1"
+  },
+  {
+    "id": "5",
+    "question": "In Attack on Titan, whose technique does Eren use to fight the Armored Titan in Shiganshina during the operation in which Levi fights the Beast Titan?\r\n",
+    "option1": "Levi",
+    "option2": "Reiner",
+    "option3": "Mikasa",
+    "option4": "Annie",
+    "correct": "Annie",
+    "type": "1"
+  },
+  {
+    "id": "6",
+    "question": "In Naruto, how many sharingans did Danzo have in total?",
+    "option1": "9",
+    "option2": "10",
+    "option3": "11",
+    "option4": "12",
+    "correct": "11",
+    "type": "2"
+  },
+  {
+    "id": "7",
+    "question": "In Erased, what does Satoru want to work as?",
+    "option1": "Anime Animator",
+    "option2": "Anime Writer",
+    "option3": "Manga Artist",
+    "option4": "Film Maker",
+    "correct": "Manga Artist",
+    "type": "2"
+  },
+  {
+    "id": "8",
+    "question": "In Parasyte, Y attends a University lecture about the “X gene” that deals with parental love by transmission of DNA. Identify X.",
+    "option1": "Jealous",
+    "option2": "Selfish",
+    "option3": "Happy",
+    "option4": "Adventurous",
+    "correct": "Selfish",
+    "type": "2"
+  },
+  {
+    "id": "9",
+    "question": "In Death Note, what is Watari’s immediate response just before dying, when Rem kills him, as pre-planned by L?",
+    "option1": "Raise an Alarm",
+    "option2": "Erase all memory",
+    "option3": "Raise an Alarm and Erase all memory",
+    "option4": "No plan",
+    "correct": "Raise an Alarm and Erase all memory",
+    "type": "2"
+  },
+  {
+    "id": "10",
+    "question": "In Code Geass, at what number did Nunnally stand in line to be heir to the Holy Britannian Empire?",
+    "option1": "61",
+    "option2": "72",
+    "option3": "87",
+    "option4": "99",
+    "correct": "87",
+    "type": "2"
+  },
+  {
+    "id": "11",
+    "question": "What does “Kamehameha” translate to?",
+    "option1": "Turtle Destruction Wave",
+    "option2": "Turtle Hermit Wave",
+    "option3": "Turtle Energy Wave",
+    "option4": "Turtle Grand Blast",
+    "correct": "Turtle Destruction Wave",
+    "type": "3"
+  },
+  {
+    "id": "12",
+    "question": "In DragonBall Z, who is the oldest toad alive?",
+    "option1": "Gamatatsu",
+    "option2": "Fukasaku​",
+    "option3": "Gamaken",
+    "option4": "Gamamaru",
+    "correct": "Gamamaru",
+    "type": "3"
+  },
+  {
+    "id": "13",
+    "question": "In Attack on Titan, what different word does Eren use to address a Titan at the end of season 3?",
+    "option1": "Devil",
+    "option2": "Human",
+    "option3": "Patriot",
+    "option4": "Warrior",
+    "correct": "Patriot",
+    "type": "3"
+  },
+  {
+    "id": "14",
+    "question": "In Code Geass, who helps Lelouch learn that geass can only be used once on a specific individual?​",
+    "option1": "Suzaku",
+    "option2": "Kallen",
+    "option3": "Random Britannian Military members",
+    "option4": "Nunally",
+    "correct": "Kallen",
+    "type": "3"
+  },
+  {
+    "id": "15",
+    "question": "In Code Geass, what is the name of the cat that steals Zero's mask ?​",
+    "option1": "Arthur",
+    "option2": "Thomas",
+    "option3": "Robert",
+    "option4": "Edward",
+    "correct": "Arthur",
+    "type": "3"
+  },
+  {
+    "id": "16",
+    "question": "In Attack on Titan, when Eren talks about joining the Survey Corps in the beginning, he says something about people. What’s the word used?",
+    "option1": "Food",
+    "option2": "Cattle",
+    "option3": "Livestock",
+    "option4": "Idiots",
+    "correct": "Cattle",
+    "type": "4"
+  },
+  {
+    "id": "17",
+    "question": "In Parasyte, X is the only singular parasite with more than one attack pattern. X mimics someone to gain Y’s trust. X uses tentacles to propel himself/herself. Identify X.",
+    "option1": "Tamiya Ryouko",
+    "option2": "Shimada Hideo",
+    "option3": "Kusano",
+    "option4": "Jaw",
+    "correct": "Tamiya Ryouko",
+    "type": "4"
+  },
+  {
+    "id": "18",
+    "question": "In Attack on Titan, which titan is known for the extreme heat produced by its body that gave it enough time to regenerate?",
+    "option1": "Rod Reiss",
+    "option2": "Colossal",
+    "option3": "Armoured",
+    "option4": "Ymir",
+    "correct": "Rod Reiss",
+    "type": "4"
+  },
+  {
+    "id": "19",
+    "question": "In Tokyo Ghoul, what is the name of the last book that Eto announces on live television about?",
+    "option1": "Queen Bileygr",
+    "option2": "King Bileygr",
+    "option3": "King Bleeder",
+    "option4": "Queen Bleeder",
+    "correct": "King Bileygr",
+    "type": "4"
+  },
+  {
+    "id": "20",
+    "question": "In Attack on Titan, which weak spot does Mikasa attack Armoured Titan in?",
+    "option1": "Behind the neck",
+    "option2": "The ankle",
+    "option3": "The eyes",
+    "option4": "Behind the knee",
+    "correct": "Behind the knee",
+    "type": "4"
+  }
+]
