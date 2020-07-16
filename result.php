@@ -127,8 +127,8 @@ if (isset($_SESSION['username'])) {
 
   <?php
 
-  $stmt = $pdo->prepare('SELECT username, score from users order by score desc');
-  $stmt->execute();
+  $stmt = $pdo->prepare('SELECT username, score from users where submitted=:submitted order by score desc');
+  $stmt->execute(["submitted" => 1]);
   $allUsers = $stmt->fetchAll();
 
   ?>
