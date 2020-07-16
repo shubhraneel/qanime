@@ -6,3 +6,6 @@ Anime quiz website made for learning php
 
 ### Hosting:
 http://qanime.atwebpages.com/
+
+### Answers:
+Answers given in question.json
